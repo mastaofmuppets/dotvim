@@ -1,8 +1,10 @@
 Note:
+--------
     
-    This is an old version of repository and vimrc itself. New version is available at [dotfiles](../dotfiles)
+This is an old version of repository and vimrc itself. New version is available at [dotfiles][dotfiles].
 
 Installation:
+--------
 
     git clone https://github.com/mastaofmuppets/dotvim.git ~/.vim
 
@@ -27,5 +29,9 @@ Add new plugin:
 
 
 More info:
+--------
 
     http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+    
+    
+[dotfiles]: https://github.com/mastaofmuppets/dotfiles
