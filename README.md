@@ -1,3 +1,7 @@
+Note:
+    
+    This is an old version of repository and vimrc itself. New version is available at [dotfiles](../dotfiles)
+
 Installation:
 
     git clone https://github.com/mastaofmuppets/dotvim.git ~/.vim
